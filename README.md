@@ -1,7 +1,5 @@
 # Gguife currency convertion 
 
-![project gif](./assets/projectGif.gif)
-
 A simple currency converter application built in Java. 
 This application allows users to convert between different currencies using an external API (ExchangeRate-AP) to fetch live exchange rates.
 
